@@ -1,4 +1,4 @@
-# Room Booking System
+# Room Booking System 
 
 ## Overview
 This is a basic Java-based room booking system implemented with Object-Oriented Programming (OOP) principles. It allows students and teachers to manage room bookings with features such as promo codes, room availability, and detailed booking information.
@@ -18,7 +18,7 @@ This is a basic Java-based room booking system implemented with Object-Oriented 
 ### Time Format
 - **From** and **Till** times are in the 24-hour clock format.
 - **Yes** and **No** inputs for availability are not case-sensitive.
-- 
+  
 ### Teacher Menu
 - **Option 7:** Import sample data for promo codes and rooms for testing other features.
 - **Option 1:** Create rooms. You can repeat this process multiple times to create additional rooms.
